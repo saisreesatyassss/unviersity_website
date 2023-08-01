@@ -1,6 +1,7 @@
 # VIT-AP University Website
 
-This is a fictional website for VIT-AP University, showcasing various sections like Home, About, Research, Courses, Admission, Placements, and Contact. The website provides information about the university, its research initiatives, offered courses, admission process, placement details, and a contact form to send emails.Here is the link:-https://saisreesatyassss.github.io/unviersity_website/
+This is a fictional website for VIT-AP University, showcasing various sections like Home, About, Research, Courses, Admission, Placements, and Contact. The website provides information about the university, its research initiatives, offered courses, admission process, placement details, and a contact form to send emails.
+Here is the link:-https://saisreesatyassss.github.io/unviersity_website/
 
 ## Technologies Used
 
